@@ -1,4 +1,4 @@
-To go to the app, click on the URL above this README.
+The app is located here (funny domain name due to free web-hosting): https://hopeful-carson-fefcac.netlify.com/
 
 I used create-react-app to load basic packages and testing functionality. The documentation for create-react-app devops functionality follows.
 
