@@ -1,6 +1,6 @@
-The app is located here (funny domain name due to free web-hosting): https://hopeful-carson-fefcac.netlify.com/
+The app is hosted here (of course, I could not choose the domain name without paying for it): https://hopeful-carson-fefcac.netlify.com/
 
-I used create-react-app to load basic packages and testing functionality. The documentation for create-react-app devops functionality follows.
+I used create-react-app for this project to load React dependencies and to test the app during development. The default documentation for create-react-app README files is below.
 
 ## Available Scripts
 
