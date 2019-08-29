@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+To go to the app, click on the URL above this README.
+
+I used create-react-app to load basic packages and testing functionality. The documentation for create-react-app devops functionality follows.
 
 ## Available Scripts
 
